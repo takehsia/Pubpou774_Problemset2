@@ -1,0 +1,974 @@
+subject_id,community_center,female,age,bmi,education,race_ethnicity,treatment,hours
+179,Woodlawn,0,41,31.020781,high school,white,0,6
+919,Woodlawn,0,19,24.315248,high school,white,1,16
+883,Woodlawn,1,27,22.755495,higher degree,black,1,11
+825,Woodlawn,1,40,28.030382,higher degree,black,1,
+351,Woodlawn,1,27,25.654799,high school,black,0,10
+843,Woodlawn,1,23,21.394646,high school,BLACK,1,5
+935,Woodlawn,1,19,21.972082,high school,black,1,8
+929,Woodlawn,female,30,0.2474938,high school,BLACK,1,5
+781,WOODLAWN,0,19,22.578222,high school,white,0,11
+829,Woodlawn,male,23,22.557035,high school,hispanic,0,13
+545,Woodlawn,1,18,25.123873,high school,white,1,
+445,Woodlawn,1,53,0.25784114,less than high school,black,1,1
+801,Woodlawn,0,20,22.98539,high school,black,1,13
+129,Woodlawn,1,-99,26.696589,higher degree,black,0,10
+291,Woodlawn,female,35,26.34811,high school,hispanic,1,4
+525,Woodlawn,1,23,30.080458,less than high school,BLACK,1,3
+583,woodlawn,0,18,24.876194,high school,black,1,11
+137,Woodlawn,1,30,31.646711,higher degree,white,1,12
+485,Woodlawn,0,-99,29.202423,less than high school,BLACK,1,7
+235,Woodlawn,1,37,22.998899,higher degree,BLACK,1,10
+475,Woodlawn,1,37,27.860477,higher degree,BLACK,1,420
+861,Woodlawn,1,37,26.213495,high school,hispanic,1,9
+391,Woodlawn,0,32,32.832695,higher degree,black,1,8
+423,Woodlawn,1,24,20.40583,higher degree,BLACK,1,8
+73,Woodlawn,0,26,32.495266,higher degree,black,1,12
+373,Woodlawn,1,24,25.08795,higher degree,BLACK,0,9
+113,Woodlawn,1,21,24.977678,high school,black,1,4
+139,Woodlawn,0,33,26.474463,higher degree,black,1,540
+873,Woodlawn,1,35,36.022579,high school,BLACK,1,8
+869,Woodlawn,female,-99,29.151905,high school,black,0,2
+9,WOODLAWN,0,19,29.396578,high school,black,0,14
+339,Woodlawn,0,41,26.752499,higher degree,black,1,8
+371,Woodlawn,1,-99,23.388271,higher degree,BLACK,1,8
+75,Woodlawn,1,34,33.479317,high school,hispanic,1,7
+755,Woodlawn,1,34,29.557621,higher degree,BLACK,0,7
+663,Woodlawn,1,30,28.415323,higher degree,BLACK,1,11
+201,Woodlawn,1,22,24.701864,higher degree,BLACK,0,240
+847,Woodlawn,0,-99,27.734411,higher degree,white,1,14
+165,Woodlawn,1,33,32.894508,higher degree,black,1,11
+841,Woodlawn,female,33,27.72954,high school,black,0,2
+63,Woodlawn,male,30,28.982862,high school,hispanic,1,5
+683,Woodlawn,0,24,0.2238211,less than high school,BLACK,1,5
+125,Woodlawn,1,33,28.771288,high school,white,1,7
+39,Woodlawn,0,21,28.352156,high school,black,1,14
+575,Woodlawn,0,27,23.50152,less than high school,black,1,3
+221,Woodlawn,0,49,28.364267,high school,BLACK,1,5
+155,Woodlawn,0,23,25.14757,high school,black,1,540
+251,Woodlawn,0,33,29.990751,higher degree,white,0,10
+895,Woodlawn,1,20,29.656837,less than high school,BLACK,0,5
+991,Woodlawn,1,-99,23.59832,high school,black,1,420
+421,Woodlawn,0,40,28.64193,higher degree,white,1,7
+229,WOODLAWN,1,39,20.603874,less than high school,black,0,6
+499,Woodlawn,1,36,31.035002,high school,black,1,3
+601,Woodlawn,female,25,36.987518,high school,BLACK,1,11
+693,Woodlawn,1,20,25.532219,high school,BLACK,1,5
+653,Woodlawn,female,-99,24.53801,higher degree,BLACK,1,11
+821,Woodlawn,female,27,26.58676,high school,black,0,9
+497,Woodlawn,female,20,21.951214,high school,BLACK,1,9
+453,Woodlawn,0,19,24.030691,high school,BLACK,0,14
+461,Woodlawn,0,37,26.059645,less than high school,BLACK,1,8
+701,Woodlawn,1,28,26.816767,high school,BLACK,0,7
+159,Woodlawn,0,28,20.319143,high school,white,1,11
+643,Woodlawn,1,23,22.443586,high school,black,1,2
+115,Woodlawn,0,37,34.389275,less than high school,black,1,6
+773,Woodlawn,1,28,21.386665,high school,black,0,5
+971,Woodlawn,1,34,27.618967,less than high school,black,1,1
+57,Woodlawn,1,43,28.848026,high school,BLACK,1,5
+69,Woodlawn,1,37,30.973455,higher degree,BLACK,0,4
+61,Woodlawn,1,27,21.534353,high school,BLACK,1,7
+555,Woodlawn,0,25,23.299301,higher degree,black,1,8
+647,Woodlawn,1,38,30.342735,higher degree,black,0,3
+51,Woodlawn,1,20,20.361294,high school,black,1,7
+123,Woodlawn,0,20,27.900122,high school,BLACK,1,18
+281,Woodlawn,0,20,25.576246,high school,white,1,10
+71,Woodlawn,0,27,23.695507,higher degree,black,1,10
+369,Woodlawn,1,30,30.709442,higher degree,white,1,11
+187,Woodlawn,0,20,24.308386,high school,black,0,8
+673,woodlawn,female,45,23.545879,less than high school,BLACK,1,5
+31,Woodlawn,female,22,22.787876,higher degree,BLACK,1,13
+289,Woodlawn,0,20,23.446939,high school,BLACK,1,16
+199,Woodlawn,0,27,25.671167,higher degree,hispanic,1,12
+887,Woodlawn,male,39,24.493301,high school,black,1,6
+597,Woodlawn,0,32,29.238634,high school,,1,10
+195,Woodlawn,0,33,32.960136,higher degree,white,1,9
+87,Woodlawn,1,22,20.611292,high school,black,1,7
+867,woodlawn,1,45,25.624418,less than high school,black,1,5
+331,Woodlawn,0,34,27.654478,high school,black,1,8
+767,Woodlawn,0,26,18.370184,higher degree,BLACK,1,7
+405,Woodlawn,1,18,25.064846,high school,black,1,9
+217,Woodlawn,0,29,22.316685,higher degree,BLACK,1,13
+979,Woodlawn,1,23,21.511017,higher degree,BLACK,0,
+411,Woodlawn,1,43,26.459312,less than high school,black,0,5
+25,Woodlawn,1,39,38.93568,higher degree,BLACK,1,6
+817,WOODLAWN,1,32,29.356127,high school,black,1,4
+67,Woodlawn,0,30,25.554161,higher degree,BLACK,0,420
+319,Woodlawn,1,26,29.402384,higher degree,BLACK,1,4
+995,Woodlawn,1,40,26.420883,higher degree,BLACK,0,1
+751,Woodlawn,female,22,16.999897,high school,hispanic,1,7
+959,Woodlawn,0,19,22.843517,less than high school,black,0,5
+783,Woodlawn,1,18,29.055645,high school,white,0,9
+983,Woodlawn,0,20,16.329565,high school,white,0,9
+805,Woodlawn,1,29,23.937538,high school,black,1,4
+737,Woodlawn,female,25,33.439053,high school,black,0,2
+745,Woodlawn,female,38,31.117374,high school,black,1,8
+117,Woodlawn,1,18,14.406345,high school,BLACK,1,13
+997,woodlawn,female,35,0.32953861,less than high school,black,0,2
+431,Woodlawn,1,25,0.30043662,higher degree,black,0,3
+161,Woodlawn,0,49,26.16588,high school,black,0,4
+413,Woodlawn,1,27,18.066059,higher degree,white,0,12
+271,Woodlawn,0,20,23.753967,high school,white,1,18
+459,Woodlawn,0,23,25.239746,high school,black,1,7
+37,Woodlawn,1,20,24.796522,high school,BLACK,0,7
+387,Woodlawn,female,25,28.882921,high school,BLACK,1,7
+401,Woodlawn,male,-99,33.589195,high school,BLACK,1,9
+967,WOODLAWN,1,32,27.967098,high school,hispanic,1,360
+133,Woodlawn,0,29,24.791784,high school,BLACK,1,8
+219,woodlawn,1,28,30.991417,higher degree,white,1,11
+479,Woodlawn,1,26,27.173357,higher degree,BLACK,1,8
+925,Woodlawn,1,39,28.309172,less than high school,black,1,
+977,Woodlawn,1,23,27.843664,higher degree,black,0,8
+491,Woodlawn,1,20,18.070662,high school,hispanic,1,11
+763,Woodlawn,1,32,33.403706,high school,white,1,10
+741,Woodlawn,1,36,25.562891,high school,BLACK,1,1
+265,Woodlawn,1,21,18.97175,higher degree,white,1,13
+325,Woodlawn,1,24,26.210278,high school,hispanic,1,10
+905,Woodlawn,1,39,30.278744,high school,black,0,6
+151,Woodlawn,1,39,34.514374,less than high school,black,1,5
+311,Woodlawn,1,42,31.252394,high school,black,0,2
+495,Woodlawn,0,-99,22.457705,higher degree,hispanic,1,15
+543,Woodlawn,female,39,21.27879,high school,BLACK,1,8
+531,Woodlawn,0,27,24.252563,higher degree,black,1,11
+927,Woodlawn,1,24,25.937395,higher degree,BLACK,1,11
+45,Woodlawn,0,20,25.036659,high school,white,1,22
+777,Woodlawn,0,22,21.883406,higher degree,BLACK,0,9
+83,Woodlawn,1,38,25.159904,less than high school,black,1,240
+855,Woodlawn,1,41,30.765375,higher degree,black,0,60
+481,Woodlawn,male,35,29.425238,high school,black,1,10
+807,Woodlawn,1,36,0.32757691,less than high school,black,0,1
+969,Woodlawn,0,31,25.103096,higher degree,BLACK,1,8
+335,Woodlawn,female,24,26.223778,high school,black,1,11
+903,Woodlawn,0,40,23.946215,higher degree,black,1,4
+617,Woodlawn,1,22,25.310717,high school,BLACK,1,1
+789,Woodlawn,0,30,33.851753,high school,black,1,11
+477,Woodlawn,0,18,26.894844,high school,BLACK,1,6
+547,Woodlawn,0,-99,30.51705,high school,BLACK,1,9
+853,Woodlawn,0,19,22.214848,high school,hispanic,1,16
+225,Woodlawn,0,24,27.161139,higher degree,black,1,10
+5,Woodlawn,1,23,30.975643,less than high school,BLACK,1,2
+203,Woodlawn,0,21,25.954096,higher degree,black,1,16
+633,woodlawn,0,18,23.681025,high school,hispanic,1,11
+379,Woodlawn,1,38,20.643223,high school,hispanic,1,6
+831,Woodlawn,0,22,25.794151,higher degree,white,0,13
+753,Woodlawn,0,29,18.474136,high school,black,0,7
+533,Woodlawn,1,27,25.705906,high school,BLACK,0,5
+307,Woodlawn,1,33,27.889023,high school,white,1,11
+743,Woodlawn,0,30,27.797953,high school,black,0,7
+437,woodlawn,1,38,27.162125,high school,BLACK,0,4
+641,Woodlawn,male,53,26.715752,high school,black,1,3
+89,Woodlawn,1,30,21.292007,high school,white,0,10
+249,Woodlawn,1,32,26.269985,high school,white,1,9
+1,Woodlawn,0,44,28.663456,high school,BLACK,0,2
+661,Woodlawn,1,22,29.546213,high school,black,1,9
+595,Woodlawn,0,-99,29.117777,higher degree,black,1,8
+381,Woodlawn,0,18,26.758945,high school,white,0,480
+19,Woodlawn,0,35,22.787205,high school,black,1,10
+273,Woodlawn,1,26,22.41243,higher degree,black,1,8
+865,Woodlawn,0,36,25.784437,higher degree,BLACK,1,5
+259,Woodlawn,0,18,30.166368,high school,black,0,15
+921,Woodlawn,male,43,32.95208,less than high school,white,0,4
+455,Woodlawn,1,37,29.156654,higher degree,black,1,7
+363,Woodlawn,1,18,29.426455,high school,black,1,2
+917,Woodlawn,1,27,22.903866,higher degree,black,1,540
+553,Woodlawn,1,31,33.727016,higher degree,black,1,6
+447,Woodlawn,female,34,19.844879,higher degree,white,0,5
+605,Woodlawn,1,25,28.166796,high school,BLACK,0,4
+665,Woodlawn,female,36,31.250946,higher degree,black,1,6
+577,Woodlawn,1,43,28.273687,high school,black,1,3
+153,Woodlawn,1,23,25.774191,higher degree,black,1,8
+811,Woodlawn,0,23,25.140633,higher degree,white,1,11
+353,Woodlawn,0,27,0.3556053,high school,black,1,8
+619,Woodlawn,0,24,20.83466,higher degree,BLACK,1,14
+899,Woodlawn,0,24,26.09716,higher degree,black,1,13
+729,Woodlawn,female,23,27.662014,high school,black,1,3
+327,Woodlawn,0,39,23.382231,high school,black,0,8
+267,Woodlawn,1,34,30.013144,high school,BLACK,1,7
+739,Woodlawn,1,44,25.139757,high school,black,0,5
+97,Woodlawn,1,36,26.331614,high school,BLACK,0,1
+765,Woodlawn,0,44,21.422266,high school,black,1,6
+561,woodlawn,1,46,29.107763,higher degree,BLACK,1,5
+965,Woodlawn,female,29,0.27598923,higher degree,black,1,10
+15,Woodlawn,0,27,27.880085,high school,black,1,9
+717,Woodlawn,1,24,29.001795,higher degree,white,0,9
+523,Woodlawn,0,26,21.099054,higher degree,BLACK,0,11
+881,Woodlawn,1,32,27.384895,higher degree,white,1,8
+603,Woodlawn,1,39,35.826733,higher degree,black,1,4
+257,Woodlawn,female,36,26.721689,less than high school,BLACK,1,1
+419,Woodlawn,0,36,22.508064,less than high school,black,1,6
+189,Woodlawn,0,-99,25.364073,higher degree,black,1,8
+109,Woodlawn,1,26,22.9188,less than high school,black,1,3
+713,Woodlawn,0,44,27.072916,high school,BLACK,0,5
+799,Woodlawn,1,25,23.771305,higher degree,BLACK,1,8
+707,Woodlawn,0,40,28.743101,less than high school,black,1,8
+303,Woodlawn,0,36,17.989544,high school,BLACK,1,9
+357,Woodlawn,1,26,17.661978,higher degree,black,1,12
+243,Woodlawn,1,37,34.002972,high school,BLACK,0,5
+671,Woodlawn,1,24,29.138769,high school,BLACK,1,7
+23,Woodlawn,1,23,20.335342,high school,black,1,11
+207,Woodlawn,1,35,27.981306,high school,hispanic,1,7
+489,Woodlawn,female,25,30.026604,higher degree,black,1,11
+349,Woodlawn,0,20,23.285408,high school,white,1,11
+535,Woodlawn,0,22,25.838022,higher degree,black,0,14
+313,Woodlawn,0,22,18.131128,higher degree,,1,9
+487,Woodlawn,0,30,26.721413,high school,,0,8
+691,Woodlawn,1,27,22.776356,higher degree,BLACK,1,12
+953,Woodlawn,female,24,19.837482,high school,BLACK,1,7
+705,Woodlawn,1,30,32.614052,higher degree,hispanic,1,10
+417,Woodlawn,1,22,33.563507,high school,black,1,3
+823,Woodlawn,male,45,26.951586,high school,black,0,3
+915,Woodlawn,1,34,26.723,high school,black,0,5
+955,Woodlawn,1,34,27.540667,high school,BLACK,0,6
+571,Woodlawn,1,39,23.790356,higher degree,BLACK,1,9
+757,Woodlawn,0,18,26.223686,high school,black,1,12
+913,Woodlawn,0,45,29.779398,high school,hispanic,1,6
+655,Woodlawn,0,-99,26.866693,less than high school,black,0,5
+375,woodlawn,1,47,31.900534,high school,black,0,4
+615,Woodlawn,0,27,25.681482,higher degree,white,1,12
+93,Woodlawn,1,32,24.391611,higher degree,white,0,9
+315,Woodlawn,1,19,25.946844,high school,black,0,6
+669,Woodlawn,0,19,0.2305641,high school,BLACK,0,4
+425,Woodlawn,0,25,26.659136,higher degree,white,1,14
+623,Woodlawn,1,41,0.32346204,high school,black,1,3
+973,woodlawn,0,-99,28.115772,high school,BLACK,1,11
+599,Woodlawn,1,24,24.239803,high school,hispanic,0,8
+279,Woodlawn,1,21,24.516598,less than high school,BLACK,0,1
+679,Woodlawn,0,21,32.288254,high school,black,1,6
+607,Woodlawn,0,34,19.519911,high school,white,0,9
+385,Woodlawn,0,34,29.486502,high school,black,1,5
+383,Woodlawn,1,40,25.791222,high school,BLACK,1,8
+79,Woodlawn,0,20,25.679749,high school,black,0,18
+857,Woodlawn,1,30,28.357975,higher degree,black,0,10
+945,WOODLAWN,1,27,27.875654,high school,BLACK,1,4
+889,Woodlawn,1,21,23.729898,high school,black,0,
+143,Woodlawn,0,43,30.010479,less than high school,black,1,4
+567,Woodlawn,0,42,27.317577,higher degree,black,1,4
+107,Woodlawn,male,42,30.793453,high school,BLACK,1,2
+787,Woodlawn,1,25,34.070366,high school,black,0,10
+149,Woodlawn,0,32,21.702766,higher degree,,1,7
+791,Woodlawn,1,-99,19.986755,high school,black,0,5
+345,Woodlawn,0,39,29.169485,high school,white,1,8
+85,woodlawn,0,33,24.655569,high school,black,1,11
+815,Woodlawn,1,34,24.647682,less than high school,black,1,2
+181,Woodlawn,1,33,26.916058,high school,BLACK,0,4
+937,Woodlawn,0,26,26.99217,higher degree,hispanic,0,12
+709,Woodlawn,female,42,29.887955,less than high school,BLACK,1,2
+433,Woodlawn,0,36,29.96604,high school,hispanic,1,8
+963,Woodlawn,0,20,24.278236,high school,white,1,14
+91,Woodlawn,1,27,26.332359,higher degree,hispanic,0,12
+237,Woodlawn,1,-99,29.668232,higher degree,BLACK,1,9
+907,Woodlawn,1,18,29.85486,high school,black,0,3
+839,Woodlawn,1,36,33.657154,higher degree,BLACK,1,7
+119,Woodlawn,1,38,30.755312,less than high school,black,1,3
+435,WOODLAWN,0,37,28.06731,high school,black,1,7
+473,Woodlawn,1,22,25.491911,high school,hispanic,1,11
+103,Woodlawn,1,37,0.25657943,high school,BLACK,1,8
+227,Woodlawn,0,30,30.267202,higher degree,black,0,9
+529,Woodlawn,0,22,21.378124,higher degree,BLACK,1,8
+719,Woodlawn,1,48,24.333282,high school,BLACK,1,3
+943,WOODLAWN,female,47,30.226706,high school,hispanic,0,240
+399,Woodlawn,1,21,31.223019,higher degree,white,0,14
+293,Woodlawn,1,28,16.832037,high school,black,1,7
+731,Woodlawn,male,31,25.009722,higher degree,white,1,11
+367,Woodlawn,1,25,23.931618,high school,black,1,8
+239,Woodlawn,1,27,29.54248,less than high school,BLACK,1,2
+515,Woodlawn,0,21,26.040474,high school,black,1,6
+911,Woodlawn,male,19,28.21723,high school,white,0,16
+329,WOODLAWN,0,34,22.887289,higher degree,BLACK,0,8
+947,Woodlawn,1,29,25.516846,higher degree,BLACK,0,6
+613,Woodlawn,0,39,0.32932761,high school,BLACK,1,7
+295,Woodlawn,0,36,24.389505,high school,BLACK,0,8
+993,Woodlawn,0,38,27.514992,high school,BLACK,1,7
+171,Woodlawn,1,28,28.526087,less than high school,black,1,2
+893,Woodlawn,1,39,31.34498,high school,BLACK,1,5
+631,Woodlawn,0,20,22.942127,high school,BLACK,0,10
+591,Woodlawn,1,39,29.425299,high school,BLACK,0,5
+687,Woodlawn,0,33,28.145563,high school,black,1,7
+999,Woodlawn,0,23,18.477039,high school,white,1,10
+923,Woodlawn,female,26,29.714285,high school,hispanic,0,6
+465,Woodlawn,0,24,21.680885,higher degree,BLACK,0,9
+897,Woodlawn,1,21,24.793816,high school,black,1,4
+769,Woodlawn,0,25,30.413149,high school,white,1,12
+749,Woodlawn,0,37,26.340912,high school,hispanic,0,7
+537,Woodlawn,female,37,26.655851,high school,BLACK,1,4
+699,Woodlawn,1,37,35.860855,high school,black,1,7
+549,Woodlawn,0,33,24.201372,higher degree,white,1,11
+901,woodlawn,male,-99,26.170292,higher degree,white,1,15
+43,Woodlawn,1,29,24.655098,higher degree,BLACK,1,9
+629,Woodlawn,1,25,20.815983,higher degree,black,1,480
+451,Woodlawn,male,19,20.533617,high school,white,0,13
+7,Woodlawn,1,23,27.806566,less than high school,black,1,7
+409,Woodlawn,1,42,31.6716,higher degree,BLACK,0,4
+429,WOODLAWN,0,21,28.686241,higher degree,BLACK,0,10
+33,Woodlawn,1,18,26.793404,high school,BLACK,,4
+931,WOODLAWN,1,32,28.150414,less than high school,white,0,4
+469,Woodlawn,1,32,27.77223,high school,BLACK,1,5
+563,Woodlawn,0,25,28.901134,higher degree,BLACK,1,9
+197,Woodlawn,0,34,30.236891,less than high school,hispanic,0,3
+573,Woodlawn,0,20,27.964075,high school,black,1,13
+27,Woodlawn,1,20,27.316271,high school,BLACK,1,7
+245,Woodlawn,1,25,22.47891,higher degree,BLACK,1,10
+183,Woodlawn,0,19,22.342289,high school,,1,15
+213,Woodlawn,1,20,23.470366,high school,black,1,7
+939,woodlawn,0,32,32.185047,high school,BLACK,1,8
+127,Woodlawn,1,22,27.030195,higher degree,BLACK,0,8
+793,Woodlawn,1,35,25.093519,higher degree,black,1,8
+323,Woodlawn,0,22,18.632561,higher degree,BLACK,1,11
+49,Woodlawn,1,27,29.43935,higher degree,BLACK,1,9
+645,Woodlawn,0,18,22.371132,less than high school,black,1,7
+277,Woodlawn,1,23,30.791609,higher degree,black,1,9
+625,Woodlawn,female,22,19.979122,high school,BLACK,0,8
+677,Woodlawn,0,23,23.011463,higher degree,black,1,11
+443,Woodlawn,0,26,19.689131,higher degree,BLACK,1,13
+333,Woodlawn,1,24,29.567982,less than high school,black,1,2
+803,Woodlawn,0,18,24.970881,less than high school,BLACK,1,5
+639,Woodlawn,0,31,30.39407,higher degree,black,0,10
+637,Woodlawn,male,34,27.350657,high school,black,0,8
+305,Woodlawn,male,27,27.053122,higher degree,,0,7
+837,Woodlawn,0,25,25.12332,higher degree,BLACK,1,9
+191,WOODLAWN,1,20,26.187748,high school,BLACK,0,6
+441,Woodlawn,1,18,26.834074,high school,BLACK,1,3
+309,Woodlawn,0,28,25.021812,higher degree,black,0,8
+337,Woodlawn,1,-99,28.661455,high school,BLACK,1,7
+689,Woodlawn,0,40,33.986668,higher degree,black,1,8
+909,Woodlawn,1,32,33.529655,high school,black,1,6
+885,Woodlawn,1,37,21.248304,high school,BLACK,1,2
+565,Woodlawn,1,21,26.164871,higher degree,BLACK,0,10
+355,Woodlawn,0,25,23.199707,high school,,1,14
+987,Woodlawn,0,23,22.651222,higher degree,black,1,8
+863,Woodlawn,0,24,0.260625,less than high school,BLACK,1,7
+517,Woodlawn,0,21,20.790178,less than high school,hispanic,0,6
+223,Woodlawn,0,33,32.710686,high school,BLACK,1,10
+541,Woodlawn,0,30,25.779812,high school,black,1,10
+463,Woodlawn,0,18,23.514872,high school,BLACK,1,17
+407,Woodlawn,0,27,27.679501,higher degree,BLACK,0,11
+169,Woodlawn,male,26,24.692471,higher degree,BLACK,0,10
+949,Woodlawn,0,21,22.086313,high school,black,0,14
+301,Woodlawn,1,35,28.852909,high school,black,0,3
+467,Woodlawn,0,28,23.692902,high school,black,0,8
+611,Woodlawn,1,22,22.8762,high school,BLACK,0,11
+95,Woodlawn,1,42,36.189014,higher degree,hispanic,1,7
+65,Woodlawn,0,20,31.792725,high school,,1,11
+185,Woodlawn,0,32,0.26857617,higher degree,BLACK,0,10
+377,Woodlawn,1,35,23.664562,high school,black,1,9
+809,WOODLAWN,1,37,30.218042,high school,black,0,420
+695,Woodlawn,1,24,33.399544,higher degree,black,0,5
+651,Woodlawn,male,43,30.525585,higher degree,BLACK,1,5
+255,Woodlawn,1,33,19.698303,high school,black,1,3
+177,Woodlawn,1,38,20.791681,high school,black,1,9
+941,Woodlawn,0,44,29.100912,high school,,1,5
+53,Woodlawn,1,25,27.96723,higher degree,black,1,8
+981,Woodlawn,1,50,23.747478,high school,black,1,2
+697,Woodlawn,1,32,21.819387,high school,BLACK,1,11
+111,Woodlawn,0,29,27.921345,high school,hispanic,1,9
+35,Woodlawn,0,30,22.345816,high school,white,1,12
+635,Woodlawn,0,20,22.864267,high school,BLACK,1,10
+175,Woodlawn,0,27,25.513756,higher degree,white,0,11
+723,Woodlawn,male,29,29.36087,high school,black,1,480
+627,Woodlawn,1,37,26.702915,high school,BLACK,1,6
+99,Woodlawn,0,25,27.424612,higher degree,white,1,13
+715,Woodlawn,1,20,23.948477,high school,BLACK,1,12
+269,Woodlawn,1,51,29.897629,high school,BLACK,1,180
+321,Woodlawn,1,28,23.040449,high school,black,1,8
+493,Woodlawn,1,32,27.193199,high school,hispanic,1,4
+341,Woodlawn,0,22,26.959093,higher degree,hispanic,0,9
+21,Woodlawn,1,38,28.071831,high school,black,1,6
+297,Woodlawn,0,23,18.773474,high school,white,0,8
+283,Woodlawn,1,20,21.744015,high school,BLACK,1,14
+511,Woodlawn,1,46,21.574789,high school,black,1,5
+685,Woodlawn,1,42,28.718952,high school,black,0,6
+733,Woodlawn,1,52,32.247135,high school,black,1,3
+833,Woodlawn,1,32,30.359406,less than high school,BLACK,1,2
+55,Woodlawn,0,21,32.176842,high school,BLACK,1,9
+11,Woodlawn,0,32,22.878962,high school,BLACK,1,7
+395,Woodlawn,1,33,27.605476,higher degree,BLACK,1,5
+135,Woodlawn,male,20,22.097334,high school,hispanic,1,7
+711,Woodlawn,1,44,28.413828,high school,black,1,2
+3,Woodlawn,1,31,31.481045,high school,black,1,12
+121,Woodlawn,0,31,17.892221,higher degree,black,1,11
+29,Woodlawn,1,49,22.408445,high school,black,1,4
+609,Woodlawn,1,22,28.995632,high school,white,1,15
+759,Woodlawn,1,36,20.083755,higher degree,black,1,10
+593,Woodlawn,1,27,33.399895,high school,black,1,4
+347,Woodlawn,0,20,24.445992,high school,BLACK,1,7
+211,WOODLAWN,1,20,0.36670253,high school,black,1,7
+501,WOODLAWN,0,33,35.273037,high school,BLACK,0,9
+77,Woodlawn,0,39,29.650492,higher degree,black,1,7
+551,Woodlawn,1,31,26.399343,high school,white,0,11
+389,Woodlawn,0,34,22.939632,higher degree,black,1,8
+105,Woodlawn,0,-99,34.369171,high school,black,0,3
+557,Woodlawn,0,25,29.071304,higher degree,white,0,11
+975,Woodlawn,0,-99,26.758524,high school,BLACK,0,7
+849,WOODLAWN,1,36,28.329054,high school,BLACK,1,4
+167,Woodlawn,0,18,29.328392,high school,black,1,
+81,Woodlawn,0,23,21.26778,higher degree,black,1,14
+771,Woodlawn,0,44,27.720396,less than high school,black,1,5
+393,Woodlawn,female,40,28.145348,high school,BLACK,0,5
+41,Woodlawn,1,37,24.117235,higher degree,black,1,8
+483,Woodlawn,1,-99,23.745031,less than high school,black,1,3
+275,Woodlawn,0,37,21.649357,high school,hispanic,1,4
+725,Woodlawn,1,30,29.885046,high school,black,1,5
+365,Woodlawn,0,37,26.942644,less than high school,black,1,6
+569,Woodlawn,1,24,26.868132,high school,black,1,2
+449,Woodlawn,0,20,32.330379,high school,black,1,1020
+747,Woodlawn,male,33,20.738951,higher degree,white,1,9
+205,Woodlawn,0,19,26.54958,high school,white,1,9
+951,Woodlawn,male,24,19.710569,high school,black,1,10
+933,Woodlawn,1,49,29.699661,less than high school,BLACK,1,2
+519,Woodlawn,0,24,21.060658,higher degree,hispanic,1,15
+559,Woodlawn,1,24,21.903368,higher degree,BLACK,1,12
+989,Woodlawn,0,32,27.865103,higher degree,hispanic,0,10
+675,Woodlawn,0,22,24.853956,less than high school,BLACK,0,6
+285,Woodlawn,0,28,28.447601,less than high school,BLACK,0,7
+727,Woodlawn,female,21,24.399736,higher degree,black,1,9
+859,Woodlawn,0,37,36.993149,high school,black,1,9
+457,Woodlawn,0,30,24.456177,higher degree,black,1,540
+439,Woodlawn,1,18,29.130154,high school,BLACK,0,8
+317,Woodlawn,0,-99,0.2590054,high school,white,1,720
+361,Woodlawn,0,32,27.118755,higher degree,black,1,7
+141,Woodlawn,1,28,30.176645,high school,BLACK,0,4
+871,woodlawn,0,23,22.048256,higher degree,BLACK,0,780
+587,Woodlawn,0,20,25.794672,high school,black,0,300
+427,Woodlawn,1,24,26.771233,higher degree,white,1,12
+703,Woodlawn,0,34,20.211548,higher degree,black,1,10
+667,Woodlawn,1,35,23.459114,less than high school,black,1,4
+649,Woodlawn,1,32,23.090212,higher degree,black,1,5
+415,Woodlawn,1,38,25.979406,higher degree,BLACK,0,
+505,Woodlawn,0,21,27.822712,high school,BLACK,0,5
+657,Woodlawn,0,43,25.872839,higher degree,hispanic,1,5
+209,Woodlawn,1,34,0.24023807,higher degree,black,1,9
+233,Woodlawn,0,18,26.44051,high school,,1,16
+879,Woodlawn,1,36,22.89938,high school,white,1,9
+471,Woodlawn,1,26,23.137693,higher degree,BLACK,1,9
+957,Woodlawn,0,30,29.375101,high school,white,1,12
+877,Woodlawn,1,32,28.142809,higher degree,BLACK,1,8
+797,Woodlawn,1,25,27.357222,higher degree,BLACK,0,13
+131,Woodlawn,1,21,13.16139,higher degree,BLACK,1,8
+247,Woodlawn,0,31,26.890163,higher degree,BLACK,0,6
+845,Woodlawn,1,-99,21.906015,higher degree,black,0,9
+681,Woodlawn,female,23,22.891924,higher degree,BLACK,1,9
+147,Woodlawn,1,39,26.498293,higher degree,black,1,6
+193,Woodlawn,1,19,26.059422,high school,BLACK,1,10
+263,Woodlawn,1,22,27.836105,higher degree,BLACK,0,10
+231,Woodlawn,1,20,23.346979,high school,BLACK,1,12
+659,Woodlawn,0,25,31.4426,higher degree,white,1,10
+819,Woodlawn,1,41,31.144852,high school,black,1,4
+359,Woodlawn,female,23,34.61306,high school,white,1,10
+173,Woodlawn,0,49,30.682484,higher degree,BLACK,1,2
+835,Woodlawn,1,23,16.398022,higher degree,black,1,13
+47,Woodlawn,0,40,30.269949,higher degree,BLACK,1,8
+215,Woodlawn,0,19,23.387814,high school,BLACK,1,16
+253,Woodlawn,1,24,25.102055,higher degree,BLACK,0,7
+59,Woodlawn,0,-99,36.311226,higher degree,BLACK,0,6
+507,Woodlawn,0,-99,22.094946,higher degree,BLACK,0,11
+795,Woodlawn,1,26,20.006857,high school,black,1,8
+163,Woodlawn,female,21,21.43038,higher degree,black,1,3
+13,Woodlawn,0,22,23.078583,higher degree,black,1,9
+851,Woodlawn,1,33,27.859924,higher degree,black,1,6
+761,Woodlawn,0,20,22.66585,high school,BLACK,1,9
+775,Woodlawn,1,37,24.745127,higher degree,black,0,5
+503,Woodlawn,0,21,23.386259,higher degree,black,0,840
+827,Woodlawn,1,18,23.0439,high school,BLACK,1,11
+521,Woodlawn,female,18,18.420729,high school,BLACK,1,5
+585,Woodlawn,1,25,20.379257,higher degree,BLACK,0,8
+589,Woodlawn,0,41,26.562626,high school,black,1,5
+397,Woodlawn,1,21,21.480251,high school,BLACK,1,360
+579,Woodlawn,1,22,23.022974,high school,BLACK,0,7
+581,Woodlawn,0,47,26.053463,high school,black,1,5
+272,Hyde Park,0,51,33.036449,higher degree,,0,3
+466,Hyde Park,0,31,31.182457,higher degree,white,0,660
+278,Hyde Park,1,44,33.445332,less than high school,hispanic,0,0
+100,Hyd Park,1,39,34.956657,higher degree,white,0,7
+358,Hyde Park,female,51,23.237726,higher degree,white,0,4
+300,Hyd Park,0,23,23.466301,higher degree,hispanic,0,7
+612,Hyde Park,1,54,33.349514,higher degree,hispanic,0,2
+228,Hyde Park,1,31,37.647652,high school,hispanic,1,8
+644,Hyde Park,0,35,30.306808,higher degree,white,1,11
+936,Hyde Park,female,56,31.276035,less than high school,black,0,3
+446,Hyde Park,1,-99,34.016705,less than high school,BLACK,0,5
+212,Hyde Park,1,33,36.93573,high school,white,1,6
+874,Hyde Park,1,-99,34.235481,less than high school,black,0,3
+536,Hyde Park,0,25,34.7341,higher degree,hispanic,0,5
+70,Hyde Park,1,35,33.964054,higher degree,white,0,5
+836,Hyde Park,1,38,36.291676,high school,hispanic,0,3
+740,Hyde Park,1,30,33.470516,higher degree,hispanic,0,2
+840,Hyde Park,0,25,29.029112,higher degree,BLACK,1,9
+660,Hyde Park,0,-99,25.584087,high school,black,0,8
+34,Hyde Park,1,40,30.811352,higher degree,hispanic,,10
+444,Hyde Park,0,20,25.697952,high school,white,0,7
+422,Hyde Park,0,22,24.55678,higher degree,white,0,9
+174,Hyde Park,0,33,33.946735,high school,white,0,3
+884,Hyde Park,1,36,31.28898,high school,white,0,3
+472,Hyde Park,female,49,35.323547,high school,white,0,5
+604,Hyde Park,0,25,25.293427,higher degree,white,0,5
+984,HYDE PARK,0,-99,30.71788,higher degree,white,1,11
+646,HYDE_PARK,1,49,34.338058,higher degree,white,0,6
+562,Hyde Park,female,32,26.340799,higher degree,white,0,12
+176,Hyde Park,1,25,32.55542,less than high school,hispanic,0,2
+4,Hyde Park,0,34,30.08708,higher degree,hispanic,1,13
+640,Hyd Park,0,36,29.073521,higher degree,hispanic,1,12
+550,Hyde Park,1,29,25.493126,high school,white,1,13
+82,Hyde Park,0,42,28.131594,higher degree,white,1,5
+156,Hyde Park,1,52,36.24778,higher degree,white,0,3
+526,Hyde Park,1,18,29.573051,less than high school,black,0,3
+30,Hyde Park,1,41,36.124397,higher degree,white,1,4
+988,Hyde Park,1,33,33.350796,higher degree,black,1,7
+302,Hyd Park,1,46,24.236927,high school,hispanic,1,4
+778,Hyde Park,1,27,26.919558,higher degree,hispanic,0,8
+848,Hyde Park,1,49,33.445251,higher degree,white,1,7
+250,Hyde Park,male,41,30.073685,higher degree,white,1,10
+938,Hyde Park,1,37,34.238571,less than high school,black,0,3
+354,Hyde Park,1,20,27.143476,high school,hispanic,0,4
+872,Hyd Park,1,53,31.258982,higher degree,hispanic,0,4
+266,Hyde Park,male,45,27.351397,higher degree,white,0,7
+704,Hyde Park,1,36,30.500475,higher degree,BLACK,1,6
+216,Hyde Park,0,28,29.461208,higher degree,BLACK,1,3
+918,Hyde Park,1,35,32.822895,high school,hispanic,1,2
+364,Hyde Park,1,31,30.496117,higher degree,hispanic,0,1
+280,Hyde Park,1,19,33.313942,high school,BLACK,1,5
+102,hyde park,1,19,28.758883,high school,black,1,3
+534,Hyde Park,0,54,32.366364,less than high school,black,0,2
+226,Hyde Park,0,56,30.901442,higher degree,white,0,3
+834,Hyde Park,1,45,24.081308,high school,white,0,4
+412,Hyde Park,1,30,31.167028,high school,white,0,3
+464,Hyde Park,1,-99,30.207548,high school,white,1,8
+958,Hyde_Park,0,23,0.25966668,higher degree,white,0,8
+380,Hyde Park,0,48,33.505173,higher degree,white,0,5
+532,Hyde Park,1,44,37.031834,less than high school,white,0,2
+72,Hyde Park,1,21,27.517588,higher degree,white,0,2
+652,HYDE PARK,0,39,27.814203,higher degree,black,1,6
+712,Hyde Park,1,23,30.818409,high school,white,1,6
+468,Hyde Park,0,25,35.219429,higher degree,hispanic,0,4
+292,Hyde Park,1,21,34.00444,higher degree,BLACK,0,4
+406,Hyde Park,1,51,36.154247,high school,BLACK,0,2
+650,Hyde Park,1,42,34.57373,higher degree,white,0,4
+76,Hyde Park,1,45,28.885193,high school,white,0,6
+258,Hyde Park,1,32,31.163425,high school,BLACK,0,2
+900,Hyde Park,1,38,37.092342,higher degree,white,0,7
+344,Hyde Park,female,27,28.906315,less than high school,hispanic,0,1
+932,Hyde Park,1,-99,29.985489,less than high school,black,0,0
+362,Hyd Park,1,-99,33.486588,higher degree,hispanic,1,2
+598,Hyde Park,female,39,30.218307,high school,black,1,
+722,Hyde Park,0,30,27.330025,higher degree,white,0,10
+84,Hyde Park,1,48,38.6054,high school,BLACK,0,0
+108,Hyde Park,1,35,33.405415,high school,white,0,5
+854,hyde park,1,34,32.568523,higher degree,white,0,3
+360,Hyde Park,1,27,31.651316,higher degree,white,0,6
+478,Hyde Park,0,27,27.993927,higher degree,BLACK,0,3
+584,Hyde Park,0,21,22.522047,higher degree,white,0,12
+966,Hyde Park,1,27,31.94232,less than high school,BLACK,1,2
+288,Hyde Park,0,27,0.3004761,higher degree,white,0,11
+802,Hyde Park,1,19,32.5564,high school,white,0,5
+54,Hyde Park,1,35,31.701826,high school,hispanic,0,2
+498,Hyde Park,0,23,33.736855,higher degree,white,0,10
+552,Hyde Park,1,52,31.220951,high school,white,1,3
+782,Hyde Park,1,19,29.290861,high school,hispanic,0,5
+474,hyde park,0,26,28.367193,high school,white,0,420
+732,Hyde Park,1,23,31.803057,higher degree,hispanic,0,5
+448,Hyde Park,1,19,18.486374,high school,white,1,9
+928,Hyde Park,male,30,32.772484,higher degree,white,1,660
+260,Hyde Park,male,21,26.26251,higher degree,white,0,3
+274,Hyde Park,1,43,32.442272,high school,hispanic,0,5
+964,Hyde Park,0,26,27.684118,higher degree,white,0,7
+246,Hyde Park,1,-99,24.289021,high school,hispanic,0,8
+720,Hyde Park,0,19,27.610083,high school,white,1,7
+564,Hyd Park,1,43,32.368782,higher degree,black,0,6
+404,Hyde Park,0,47,30.082527,higher degree,white,0,2
+876,Hyde Park,0,25,26.347826,high school,hispanic,0,7
+580,Hyde Park,1,44,43.200504,high school,white,0,5
+556,Hyde Park,0,42,35.005596,higher degree,hispanic,0,7
+138,hyde park,male,41,31.337412,higher degree,white,0,9
+558,Hyde Park,0,26,31.395596,higher degree,,0,6
+954,Hyde Park,1,18,31.429764,high school,white,0,8
+392,Hyde Park,1,19,35.11652,high school,hispanic,1,11
+114,Hyde Park,1,-99,26.244097,higher degree,BLACK,0,4
+276,Hyde Park,0,30,31.494581,higher degree,,1,6
+864,Hyde Park,1,34,37.754536,high school,white,0,7
+268,Hyde Park,0,27,28.088968,higher degree,BLACK,0,7
+118,Hyde Park,1,42,26.678532,higher degree,hispanic,1,9
+548,Hyde Park,0,42,34.218525,high school,hispanic,0,7
+124,Hyde Park,1,37,30.849234,less than high school,black,0,3
+860,Hyde Park,1,37,33.859638,high school,hispanic,0,8
+232,Hyde Park,0,41,26.307655,high school,white,0,7
+700,Hyde Park,1,44,24.628988,higher degree,hispanic,1,8
+908,Hyde Park,1,21,23.187925,high school,BLACK,0,120
+600,Hyde Park,0,49,30.541414,high school,white,0,2
+622,Hyde Park,0,32,0.32595238,high school,white,0,8
+972,Hyde Park,1,53,22.815008,higher degree,white,1,6
+78,Hyde Park,0,24,29.336372,higher degree,white,1,7
+858,Hyde Park,0,44,33.549847,high school,white,1,5
+222,Hyde Park,female,24,38.598423,high school,black,0,2
+336,Hyde Park,0,34,31.429676,higher degree,white,0,6
+352,Hyde Park,1,-99,32.064224,high school,black,0,2
+318,Hyde Park,1,18,23.647802,high school,black,0,2
+368,Hyde Park,1,36,36.150406,higher degree,hispanic,0,6
+290,Hyde Park,0,19,29.825748,high school,hispanic,0,9
+794,Hyde Park,1,35,30.858397,higher degree,white,0,0
+98,Hyde Park,1,20,30.827526,high school,white,0,7
+820,Hyde Park,0,19,33.652966,high school,,0,4
+90,Hyde Park,1,34,35.708878,higher degree,white,0,9
+664,Hyde Park,1,41,35.576939,high school,hispanic,0,5
+480,Hyde Park,1,45,30.807396,higher degree,hispanic,1,360
+510,Hyde Park,0,32,25.814072,higher degree,white,1,14
+886,Hyde Park,1,27,27.088871,high school,hispanic,1,5
+926,Hyde Park,female,24,32.455029,high school,hispanic,1,3
+812,Hyde Park,1,57,31.159113,higher degree,black,0,2
+880,Hyde Park,0,23,26.992058,high school,white,0,7
+50,Hyde Park,1,27,29.527502,high school,white,1,7
+742,Hyde Park,0,22,32.88792,higher degree,white,0,7
+838,Hyde Park,1,47,33.869335,high school,white,0,2
+88,Hyde Park,0,36,23.836374,higher degree,white,0,8
+242,Hyde Park,0,32,33.803219,higher degree,white,0,5
+970,Hyde Park,0,23,31.082918,higher degree,white,0,4
+286,Hyde Park,0,37,36.264721,higher degree,white,0,9
+766,Hyde Park,1,21,22.825167,higher degree,white,1,10
+92,Hyde Park,1,55,34.689468,higher degree,hispanic,0,2
+462,Hyde Park,male,47,34.587391,high school,white,0,3
+950,Hyde Park,0,56,37.549812,less than high school,white,0,0
+694,Hyde Park,1,52,30.53204,higher degree,hispanic,0,4
+692,Hyde Park,1,63,41.076797,less than high school,BLACK,0,1
+896,Hyde Park,1,29,30.016209,higher degree,white,0,8
+706,Hyde Park,0,22,24.564976,high school,white,1,
+32,Hyde Park,1,43,34.895866,less than high school,BLACK,1,1
+382,Hyde Park,1,57,25.8601,higher degree,BLACK,1,2
+476,Hyde Park,0,19,36.574596,high school,,0,3
+132,Hyde Park,1,44,29.727699,higher degree,white,1,6
+204,Hyde Park,female,40,31.242355,higher degree,white,1,6
+976,HYDE PARK,1,39,31.435654,less than high school,black,0,1
+330,Hyde Park,1,26,34.77433,high school,white,0,9
+956,Hyde Park,0,21,23.825785,high school,white,1,2
+656,Hyde Park,1,52,32.983536,high school,white,0,1
+566,Hyde Park,0,32,31.817162,higher degree,white,0,11
+764,Hyde Park,1,36,26.591452,higher degree,white,1,5
+196,Hyde Park,1,24,28.427742,high school,BLACK,0,7
+524,HYDE PARK,1,52,36.493431,higher degree,white,0,4
+148,Hyde Park,1,50,32.347172,high school,BLACK,0,3
+818,Hyde Park,1,27,34.623852,less than high school,white,0,4
+674,Hyde Park,0,32,34.809616,higher degree,BLACK,0,4
+798,Hyde Park,1,20,29.9415,high school,white,0,4
+58,Hyde Park,0,49,27.802097,high school,white,,6
+400,Hyde Park,1,26,32.718121,higher degree,white,1,5
+608,Hyde Park,0,25,31.190702,high school,black,1,3
+514,Hyde Park,1,30,41.856655,high school,white,1,3
+788,Hyde Park,1,51,34.737206,higher degree,BLACK,0,1
+846,HYDE PARK,0,40,31.76738,higher degree,hispanic,0,8
+748,Hyde Park,1,52,38.803768,higher degree,hispanic,1,5
+144,hyde park,0,33,28.9743,higher degree,white,0,7
+104,Hyde Park,0,19,35.247242,high school,,1,3
+254,Hyde Park,0,55,30.296255,less than high school,BLACK,1,2
+508,Hyde Park,1,41,29.352734,high school,white,1,8
+672,HYDE PARK,1,39,0.34394205,higher degree,white,0,9
+544,Hyde Park,0,44,33.228153,less than high school,hispanic,0,2
+512,Hyde Park,1,21,17.27409,higher degree,white,0,7
+424,Hyde Park,0,37,34.516556,higher degree,white,0,11
+666,hyde_park,0,45,29.438498,higher degree,white,0,2
+238,Hyde Park,1,25,25.173849,higher degree,white,0,5
+420,Hyde Park,1,27,33.314693,higher degree,BLACK,0,8
+804,Hyde Park,0,30,28.334265,high school,white,0,6
+610,Hyde Park,1,52,36.261189,higher degree,black,1,3
+628,Hyde Park,1,48,32.280796,high school,white,0,4
+338,Hyde Park,1,52,30.336981,high school,black,1,4
+350,Hyde Park,1,48,27.820675,high school,white,1,8
+458,Hyde Park,1,38,30.39414,high school,black,1,6
+394,hyde park,1,35,33.628979,higher degree,white,0,7
+516,Hyde Park,female,59,33.895267,higher degree,white,0,2
+128,Hyd Park,1,23,24.740728,higher degree,black,0,3
+224,Hyd Park,1,24,25.227186,high school,hispanic,1,2
+294,Hyde Park,0,41,36.257725,higher degree,hispanic,0,2
+18,Hyde Park,0,32,34.811268,high school,BLACK,0,2
+888,Hyde Park,female,25,23.993074,higher degree,black,1,7
+248,Hyde Park,0,-99,30.034,higher degree,hispanic,1,11
+456,Hyde Park,1,53,29.437681,high school,white,0,1
+432,Hyde Park,female,34,0.35244736,higher degree,hispanic,0,1
+662,Hyde Park,1,20,28.574659,high school,white,0,6
+416,Hyde Park,1,21,26.672802,high school,white,0,10
+758,Hyde Park,0,45,30.226551,higher degree,white,1,9
+816,Hyde Park,1,35,33.493515,high school,black,0,2
+496,Hyde Park,1,21,31.884895,higher degree,white,0,4
+750,Hyde Park,1,26,30.204889,higher degree,hispanic,0,7
+586,Hyde Park,female,26,26.944035,higher degree,white,0,420
+494,Hyde Park,1,51,33.440952,higher degree,black,0,4
+780,Hyde Park,0,27,29.792431,high school,white,0,4
+974,Hyde Park,0,22,33.775875,higher degree,hispanic,1,9
+74,Hyde Park,1,47,35.696632,higher degree,BLACK,1,3
+306,Hyde Park,1,52,33.059418,higher degree,hispanic,0,4
+588,Hyde Park,1,20,27.929802,high school,black,0,5
+776,Hyde Park,1,21,36.130276,higher degree,BLACK,1,7
+698,Hyde Park,1,28,30.514866,higher degree,white,0,2
+826,Hyde Park,0,25,28.590511,high school,white,0,3
+6,Hyde Park,0,25,20.936815,high school,white,1,2
+264,Hyde Park,1,27,28.683075,high school,hispanic,0,2
+744,Hyde Park,1,31,34.91449,high school,white,0,7
+396,Hyde Park,0,48,22.063345,less than high school,white,1,5
+898,Hyde_Park,1,28,36.959549,less than high school,hispanic,1,2
+682,hyde park,1,20,31.984755,high school,black,0,360
+348,Hyde Park,1,48,30.937639,higher degree,white,0,6
+200,Hyde Park,1,21,25.814064,high school,white,0,4
+912,Hyde Park,female,59,35.579117,high school,white,1,3
+198,Hyde Park,female,56,31.288326,higher degree,black,1,5
+42,hyde park,1,54,35.788513,high school,black,1,120
+906,Hyde Park,1,-99,36.748924,less than high school,BLACK,0,2
+316,HYDE PARK,male,20,34.074604,high school,white,1,11
+684,Hyde Park,1,49,34.825897,higher degree,black,0,2
+910,Hyde Park,0,37,31.577133,higher degree,white,0,11
+942,Hyde Park,1,24,22.550436,higher degree,white,0,7
+506,Hyde Park,0,40,26.652327,higher degree,white,0,2
+8,Hyde Park,1,52,29.296068,high school,black,1,4
+852,Hyde Park,1,38,39.267731,higher degree,hispanic,0,4
+28,Hyde Park,0,58,32.351959,higher degree,white,0,3
+326,Hyde Park,0,44,29.017488,higher degree,,0,7
+68,Hyde Park,1,29,32.719162,high school,BLACK,0,5
+36,Hyde Park,1,46,33.729,high school,black,1,8
+538,Hyde Park,1,57,29.128641,less than high school,black,1,2
+504,Hyde Park,1,-99,26.089945,higher degree,white,1,10
+868,Hyde Park,0,25,32.317932,high school,white,0,6
+636,Hyde Park,1,-99,31.348909,high school,hispanic,0,3
+792,Hyde Park,1,46,38.025162,higher degree,white,1,5
+460,Hyde Park,0,38,33.665642,higher degree,black,1,8
+774,Hyde Park,1,23,29.888449,high school,white,0,1
+230,Hyde Park,1,44,28.900581,higher degree,white,1,8
+618,Hyde Park,1,37,33.194805,high school,white,0,4
+736,Hyde Park,female,44,30.499323,higher degree,white,0,6
+962,hyde park,1,25,30.374319,higher degree,white,0,5
+10,Hyde Park,1,26,27.900341,less than high school,black,0,2
+518,Hyde Park,0,37,37.869911,higher degree,white,0,10
+146,Hyd Park,1,44,26.807655,less than high school,black,0,2
+590,Hyde Park,0,25,27.392048,higher degree,white,1,12
+186,Hyde Park,1,22,22.928066,higher degree,white,0,8
+126,Hyde Park,1,40,0.36841306,higher degree,white,0,7
+642,Hyde Park,female,21,23.374605,higher degree,white,0,13
+166,Hyde Park,1,58,34.306461,higher degree,white,1,1
+310,HYDE PARK,0,54,36.067474,high school,black,1,1
+164,Hyde Park,female,26,24.361324,less than high school,white,0,180
+944,Hyde Park,0,21,30.838297,higher degree,white,0,13
+398,Hyde Park,female,32,22.372301,higher degree,white,0,11
+450,Hyde Park,0,26,28.841106,higher degree,white,1,13
+576,Hyde Park,0,49,32.324787,high school,,1,2
+192,HYDE PARK,1,43,33.002487,less than high school,black,1,2
+594,Hyde Park,0,29,31.800703,high school,white,1,5
+366,Hyde Park,0,20,23.192892,high school,hispanic,0,5
+710,Hyde Park,1,-99,29.496733,high school,white,0,7
+206,Hyde Park,1,19,28.519581,high school,white,0,2
+824,Hyde Park,1,54,22.775831,less than high school,black,0,1
+408,Hyde Park,1,20,33.270035,high school,BLACK,0,6
+668,Hyde Park,female,23,34.799759,high school,black,1,2
+542,Hyde Park,0,18,37.946674,high school,white,0,5
+930,Hyde Park,1,22,27.128283,high school,white,1,10
+26,hyde park,0,-99,33.4841,higher degree,black,0,4
+438,Hyde_Park,0,33,28.440594,higher degree,hispanic,0,10
+844,Hyde Park,1,41,30.714804,higher degree,white,0,5
+454,Hyde Park,1,28,34.470993,higher degree,black,0,6
+388,Hyde Park,female,25,31.12047,higher degree,black,0,4
+734,hyde park,1,30,32.709198,high school,white,0,8
+830,Hyde Park,0,-99,37.348034,higher degree,white,0,5
+616,Hyde Park,1,45,31.643032,higher degree,white,0,7
+602,Hyde Park,0,31,34.759594,higher degree,white,0,8
+184,Hyde Park,1,-99,27.568781,higher degree,hispanic,0,4
+240,Hyde Park,1,26,30.6373,higher degree,hispanic,0,6
+136,Hyde Park,1,44,33.555054,higher degree,white,0,2
+828,Hyde Park,1,22,34.240486,less than high school,white,0,3
+210,Hyde Park,0,24,28.302664,higher degree,BLACK,0,8
+808,Hyde Park,1,52,33.634045,higher degree,black,0,4
+116,HYDE PARK,1,18,36.71159,high school,white,1,6
+284,Hyde Park,1,23,27.469517,higher degree,white,1,9
+878,Hyde Park,1,55,36.205925,less than high school,hispanic,0,1
+894,Hyde Park,0,39,33.991917,high school,BLACK,1,7
+570,Hyde Park,0,22,34.179062,high school,black,1,8
+308,Hyde_Park,1,59,23.948988,high school,white,0,1
+724,Hyde Park,1,19,26.32542,high school,white,0,6
+540,Hyde Park,1,26,31.764521,higher degree,white,0,6
+170,Hyde Park,1,35,29.868301,high school,white,1,8
+718,Hyde Park,0,41,29.677593,higher degree,black,1,9
+796,Hyde Park,1,28,23.316273,higher degree,BLACK,1,2
+620,Hyde Park,1,61,35.053989,higher degree,white,0,60
+130,hyde park,1,34,24.277472,higher degree,white,0,12
+760,hyde park,1,24,34.081551,higher degree,white,0,1
+244,Hyde Park,0,46,23.179365,high school,white,0,7
+856,Hyde Park,0,49,34.308922,less than high school,hispanic,0,240
+150,Hyde Park,1,30,31.837128,higher degree,white,1,11
+370,hyde park,0,31,24.642591,higher degree,white,0,9
+214,Hyde Park,1,-99,27.601627,higher degree,white,1,8
+940,Hyde Park,0,21,23.710978,high school,hispanic,0,2
+142,Hyde Park,1,29,39.850548,higher degree,white,0,7
+572,Hyde Park,1,41,36.630684,high school,white,0,6
+414,Hyde Park,female,28,30.683685,higher degree,white,1,8
+402,Hyde Park,female,34,31.815722,less than high school,hispanic,0,
+554,Hyde Park,1,49,32.50774,higher degree,white,1,6
+158,Hyde Park,1,34,36.499905,higher degree,hispanic,1,11
+528,Hyde_Park,0,29,26.590006,higher degree,white,1,6
+986,Hyde Park,1,60,32.029846,high school,black,0,60
+262,Hyde Park,1,22,0.31062463,higher degree,BLACK,0,5
+568,Hyde Park,0,45,41.857422,high school,BLACK,0,
+768,Hyde_Park,0,21,27.751951,higher degree,white,1,16
+60,Hyde Park,1,46,34.158714,higher degree,white,1,6
+220,Hyde Park,1,21,30.854797,less than high school,white,0,2
+16,hyde park,1,32,26.935007,higher degree,BLACK,0,180
+182,Hyde Park,female,42,36.015831,less than high school,BLACK,1,3
+66,Hyde Park,0,-99,25.086931,higher degree,,0,12
+62,Hyde Park,1,34,33.968143,higher degree,white,1,
+106,Hyde Park,1,51,36.892151,higher degree,hispanic,0,3
+978,Hyde Park,0,51,33.670284,higher degree,black,0,5
+890,Hyde Park,0,38,32.980183,high school,,0,2
+678,Hyd Park,1,49,35.910923,high school,white,1,3
+902,hyde park,1,33,28.582857,higher degree,hispanic,1,9
+756,Hyde Park,1,40,40.128056,higher degree,white,1,2
+340,Hyde Park,1,23,30.982922,high school,white,0,4
+120,Hyde Park,1,33,27.470114,high school,white,0,6
+670,Hyde Park,1,42,30.538572,high school,hispanic,0,9
+426,Hyde_Park,1,59,34.886799,high school,hispanic,0,1
+484,Hyde Park,1,36,35.44762,higher degree,black,0,7
+96,Hyde Park,0,23,33.717949,less than high school,black,1,4
+582,Hyde Park,0,30,26.361506,higher degree,white,0,14
+714,Hyde Park,0,22,23.211151,higher degree,white,1,13
+38,Hyde Park,0,-99,37.529758,high school,black,0,4
+784,Hyde Park,1,43,30.957293,higher degree,hispanic,0,5
+24,Hyde Park,0,21,30.840099,higher degree,hispanic,1,7
+64,Hyde Park,1,38,36.360119,higher degree,white,0,3
+296,hyde park,1,34,31.904604,high school,white,0,120
+832,Hyde Park,1,34,35.808239,higher degree,hispanic,0,6
+236,Hyde Park,0,22,26.085981,high school,,0,9
+110,Hyde Park,1,46,31.70899,high school,black,0,3
+378,Hyde Park,female,29,26.379955,higher degree,white,0,4
+22,Hyde Park,1,30,32.314541,higher degree,hispanic,0,12
+806,Hyde Park,female,29,36.81382,high school,black,1,5
+122,hyde park,0,25,27.786455,higher degree,white,0,10
+822,Hyde Park,1,19,33.987995,high school,white,0,480
+920,Hyde Park,0,35,37.294468,higher degree,white,1,7
+546,Hyde_Park,1,44,34.010891,high school,white,0,6
+702,Hyde Park,male,19,33.2066,high school,white,0,5
+442,Hyde Park,1,38,38.68293,high school,hispanic,0,1
+334,Hyde Park,1,26,28.28599,less than high school,white,0,60
+502,Hyde Park,0,24,38.974606,high school,white,0,6
+914,HYDE PARK,1,49,33.683746,high school,hispanic,0,0
+44,Hyde Park,1,20,28.445415,high school,BLACK,0,4
+52,hyde park,male,51,35.401825,higher degree,white,0,1
+168,Hyde Park,0,21,25.044989,higher degree,,0,4
+470,Hyde Park,male,24,30.806637,less than high school,BLACK,0,4
+322,Hyde Park,female,45,31.833639,higher degree,hispanic,0,2
+48,Hyde Park,0,26,28.89216,higher degree,white,0,9
+218,Hyde Park,1,19,28.413879,high school,hispanic,0,3
+194,Hyde Park,0,54,32.172493,high school,white,1,4
+634,Hyde Park,1,57,31.936693,less than high school,black,0,0
+282,Hyde Park,1,37,38.390469,higher degree,hispanic,0,4
+762,Hyde Park,1,51,29.871386,higher degree,hispanic,0,0
+892,Hyde Park,1,-99,31.945076,higher degree,hispanic,0,7
+304,Hyde Park,1,27,34.954514,high school,white,1,3
+996,Hyde Park,0,43,36.810654,higher degree,white,0,8
+680,Hyde_Park,0,46,0.37669861,higher degree,hispanic,0,2
+410,Hyde Park,female,37,32.638908,high school,white,1,8
+948,Hyde Park,1,55,33.921497,high school,BLACK,0,0
+160,Hyde Park,0,49,34.407146,higher degree,hispanic,1,4
+252,Hyde Park,0,19,22.636499,high school,white,0,8
+730,Hyde Park,male,36,38.451099,higher degree,hispanic,0,7
+298,Hyde Park,1,-99,29.974039,high school,white,1,7
+202,Hyde Park,0,44,25.029789,higher degree,,0,4
+990,Hyde Park,1,43,34.455223,high school,white,0,7
+754,Hyde_Park,1,50,36.392017,high school,black,1,3
+810,Hyde Park,1,27,0.34769368,higher degree,white,0,10
+324,Hyde Park,female,30,29.195107,higher degree,white,0,5
+320,Hyde_Park,1,32,31.899828,less than high school,white,0,3
+312,Hyde Park,0,35,30.494257,high school,,1,360
+256,Hyde Park,1,33,30.252357,higher degree,white,0,4
+968,Hyde Park,1,29,26.775707,high school,black,0,6
+728,Hyde Park,1,28,20.343895,high school,BLACK,1,6
+154,Hyde Park,0,-99,35.056358,higher degree,hispanic,1,5
+690,Hyde Park,0,31,30.008615,higher degree,white,1,10
+314,Hyde Park,1,44,28.364954,higher degree,black,0,1
+574,Hyde Park,1,37,35.086773,high school,hispanic,1,1
+332,hyde park,1,44,30.645937,less than high school,white,0,2
+560,Hyde Park,1,44,30.921204,high school,white,1,2
+626,Hyde Park,1,39,34.946201,higher degree,hispanic,0,4
+696,Hyde Park,0,41,33.608204,higher degree,white,0,8
+56,Hyde Park,1,44,29.512346,less than high school,white,0,3
+606,Hyde Park,1,32,19.116575,high school,hispanic,0,7
+188,Hyde Park,1,29,35.004822,high school,hispanic,0,2
+270,Hyde Park,1,51,30.958462,less than high school,black,0,2
+140,Hyde Park,0,31,29.421339,higher degree,white,0,12
+134,Hyde Park,0,51,34.496231,high school,,1,1
+688,Hyde Park,1,36,38.58226,less than high school,black,0,4
+46,Hyde Park,1,35,35.241856,high school,black,0,2
+342,Hyde_Park,1,35,31.243147,higher degree,white,1,9
+726,Hyde Park,0,41,33.774185,less than high school,white,0,4
+916,Hyde_Park,1,23,27.986687,high school,hispanic,0,3
+638,HYDE PARK,1,48,32.241783,higher degree,hispanic,1,3
+922,Hyde Park,1,40,30.031357,high school,white,0,2
+614,Hyde Park,female,55,35.270638,higher degree,hispanic,0,2
+234,Hyde Park,1,52,30.904764,higher degree,black,0,2
+522,Hyde Park,1,19,30.103128,less than high school,hispanic,0,1
+960,Hyde Park,1,19,36.979076,high school,white,0,0
+814,Hyde Park,1,28,27.768456,high school,BLACK,0,5
+866,Hyde Park,1,-99,28.881931,high school,white,0,7
+952,Hyde Park,1,-99,25.1639,high school,black,0,1
+12,Hyde Park,1,36,28.048269,high school,black,0,5
+530,Hyde Park,1,24,30.484257,higher degree,white,1,2
+842,hyde park,1,52,37.619858,higher degree,BLACK,1,3
+384,Hyde Park,1,31,44.037025,high school,white,0,3
+686,Hyde Park,1,48,31.063131,less than high school,white,0,
+1000,Hyde Park,0,23,26.680023,high school,white,1,12
+80,Hyde Park,0,36,31.08733,higher degree,white,0,9
+630,Hyde Park,0,39,34.572357,high school,,0,2
+624,Hyde Park,1,19,33.889313,high school,black,0,0
+786,Hyde Park,1,29,31.422289,higher degree,black,0,2
+790,Hyde Park,1,52,27.420856,higher degree,black,0,1
+800,Hyde Park,1,41,29.734653,higher degree,white,0,6
+14,Hyde Park,1,42,35.382294,higher degree,white,0,7
+578,Hyde Park,1,37,34.928017,higher degree,white,0,4
+390,Hyde Park,1,22,35.446892,higher degree,white,1,3
+428,Hyde Park,0,22,27.145908,higher degree,black,0,10
+982,Hyde Park,1,38,24.810728,higher degree,white,0,8
+648,Hyde Park,0,23,24.031347,higher degree,white,0,15
+862,Hyde Park,1,34,31.638926,higher degree,hispanic,0,3
+486,Hyde Park,1,28,27.922359,higher degree,hispanic,0,1
+772,Hyd Park,1,30,30.737591,higher degree,white,0,5
+770,Hyde Park,1,-99,30.072643,higher degree,white,0,7
+386,Hyde Park,1,45,32.838295,higher degree,white,1,4
+946,Hyde Park,0,-99,25.434935,higher degree,hispanic,0,7
+708,Hyde Park,0,42,34.076706,less than high school,,0,2
+882,Hyde Park,1,36,33.831585,high school,white,0,9
+2,Hyde Park,1,28,25.233892,higher degree,hispanic,0,2
+752,Hyde Park,1,55,31.818521,higher degree,white,0,3
+482,Hyde Park,male,38,33.946896,high school,white,1,9
+112,Hyde Park,1,32,35.824009,high school,BLACK,0,3
+592,Hyde Park,1,36,32.080208,high school,black,1,2
+436,Hyde Park,1,38,33.285469,higher degree,white,0,3
+658,Hyde Park,1,51,33.900162,high school,white,0,1
+328,Hyde Park,1,37,30.082079,higher degree,hispanic,0,0
+490,Hyde Park,1,32,32.034779,higher degree,white,0,9
+20,Hyde Park,1,21,27.72245,high school,black,0,1
+346,Hyde Park,1,33,30.238787,higher degree,white,1,11
+746,Hyde Park,1,32,34.745422,higher degree,hispanic,0,5
+488,Hyd Park,1,31,31.121159,high school,black,1,6
+372,Hyde Park,0,47,34.880199,high school,white,1,3
+418,Hyde Park,1,29,30.522341,higher degree,white,0,2
+178,Hyde Park,0,28,27.33885,higher degree,white,0,11
+500,Hyde Park,1,-99,37.935143,higher degree,white,0,5
+440,Hyde_Park,female,31,31.77025,high school,white,0,7
+654,Hyde Park,1,35,31.60078,high school,BLACK,0,2
+520,Hyde Park,female,32,27.740158,higher degree,black,0,1
+452,Hyde Park,0,46,31.438543,high school,white,0,5
+738,Hyde Park,1,24,38.198528,higher degree,white,0,4
+492,Hyde_Park,0,26,34.350357,higher degree,white,0,4
+924,Hyde_Park,1,-99,34.493683,high school,black,0,2
+162,Hyde Park,1,38,44.03495,higher degree,BLACK,0,2
+430,Hyde Park,1,48,38.776463,higher degree,white,1,5
+904,Hyde Park,1,59,27.691429,high school,hispanic,0,120
+172,Hyde Park,1,21,31.516859,high school,black,0,0
+934,Hyde Park,0,22,32.301407,higher degree,white,0,4
+374,Hyde Park,1,21,29.512798,higher degree,BLACK,0,7
+850,Hyde Park,1,23,32.177147,higher degree,white,0,1
+356,Hyde Park,female,22,24.914379,high school,white,0,4
+434,HYDE PARK,1,22,32.290279,higher degree,BLACK,1,4
+152,Hyde Park,female,49,34.104588,higher degree,black,1,6
+632,Hyde Park,male,33,24.275478,higher degree,white,0,11
+992,Hyde Park,0,22,21.593891,higher degree,black,0,8
+86,Hyde Park,0,35,23.317253,higher degree,white,0,540
+376,Hyde Park,0,31,39.382919,higher degree,hispanic,0,10
+870,Hyde Park,1,25,32.38731,higher degree,hispanic,0,6
+40,Hyde Park,0,41,39.416687,less than high school,white,0,6
+208,Hyde Park,female,42,31.241867,high school,white,0,7
+94,Hyde Park,0,40,30.21987,high school,hispanic,0,4
+716,Hyde Park,1,39,30.026894,higher degree,BLACK,1,2
+980,Hyd Park,1,44,33.78215,high school,white,0,6
+180,Hyde Park,1,41,35.295166,high school,white,1,2
+998,Hyde Park,1,35,29.41622,high school,white,1,720
+596,Hyde Park,1,41,29.826601,high school,white,1,5
